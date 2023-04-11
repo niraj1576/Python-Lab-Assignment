@@ -1,6 +1,6 @@
-f = open("Lab 4/demofile.txt", "a")
-f.write("Now the file has more content!\n")
+f = open("demofile.txt", "a")
+f.write("lets write something!\n")
 f.close()
 
-f = open("Lab 4/demofile.txt", "r")
+f = open("demofile.txt", "r")
 print(f.read())
