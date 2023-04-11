@@ -1,4 +1,4 @@
-file = open("Lab 4/demofile.txt", 'r')
+file = open("demofile.txt", 'r')
 Lines = file.readlines()
 
 count = 0
