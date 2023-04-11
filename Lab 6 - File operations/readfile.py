@@ -1,2 +1,2 @@
-f = open("Lab 4/demofile.txt", "r")
+f = open("demofile.txt", "r")
 print(f.read())
